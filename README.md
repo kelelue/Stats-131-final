@@ -1,6 +1,7 @@
 # Stats-131-final
 Stats 131 Final project repository
-*Must be done before Thursday, Dec 6*
+
+**Must be done before Thursday, Dec 6**
 
 ## Roles
 - Background info: Will
