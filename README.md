@@ -4,8 +4,8 @@ Stats 131 Final project repository
 **Must be done before Thursday, Dec 6**
 
 ## Roles
-- Background info: Will
-- Cleaning and exploration: Jean and Iris
+- Background info: Will ( https://docs.google.com/document/d/1Fp0pQidrjZ12DFBIJKqnSzGXDKqSSJhc9aBe7xbIoio )
+- Cleaning and exploration: Jean and Iris (the jupyter notebook)
 - Modelling: Kellie
 
 ## Data
